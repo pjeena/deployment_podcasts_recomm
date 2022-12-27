@@ -6,4 +6,5 @@ sentence_transformers
 nltk
 scipy
 plotly
+streamlit
 watchdog
