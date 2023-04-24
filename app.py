@@ -34,7 +34,7 @@ with siteHeader:
     st.title('Podcast Recommendation System')
 #    st.markdown("by :red[**Piyush**] :computer:")
     st.markdown(
-        "A **Machine Learning** powered app by :red[**Piyush Jeena**] <a href='https://github.com/pjeena/Podcasts-recommender-system-using-sentence-transformers' > <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png' width='20' height='20' > </a> ",
+        "A **Machine Learning** powered app by :red[**Piyush**] <a href='https://github.com/pjeena/Podcasts-recommender-system-using-sentence-transformers' > <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png' width='20' height='20' > </a> ",
         unsafe_allow_html=True,
     )
 
